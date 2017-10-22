@@ -16,7 +16,7 @@ if(!$conn){
 	else echo"error creating database".$conn->error;
 	$conn->close();
 	//new connection
-	$db=new mysqli($servername,$username,'','dukani');
+	$db=new mysqli($servername,$username,'','duka');
     if ($db->connect_error) {
     die("Connection failed: " . $conn->connect_error);
       } 
