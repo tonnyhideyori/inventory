@@ -1,0 +1,153 @@
+*{padding:0px;
+ margin:0px;
+	}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height: 1.5em;
+	width: auto;
+	padding:5px;
+	margin:5px;
+
+}
+body {
+	background-image:url(image/Times_Square_new_york_usa_city_cities_neon_lights_traffic_crowd_people__o_2560x1600.jpg);
+	background-color:#C0C0C0;
+	text-decoration: blink;
+}
+a {
+	font-size: 14px;
+	color:#CC3366;
+	}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color:green;
+}
+a:hover {
+	text-decoration: none;
+	color:#CC0000;
+}
+a:active {
+	text-decoration: none;
+	color: #03F;
+}
+#pageHeader {
+    font-family: Georgia, "Times New Roman", Times, serif;
+	border:#999 1px solid;
+	border-bottom:none;
+	background-color:#F4F4F4;
+	width:1000px;
+
+}
+#pageContent {
+
+	display:table;
+	border:#999 1px solid;
+	border-bottom:none;
+
+	background-color:#F4F4F4;
+	width:1000px;
+
+}
+
+#pageFooter {
+	border:#999 1px solid;
+	background-color:#F4F4F4;
+	width:1000px;
+
+}
+#category{
+float:left;
+width:70px;
+foat:left;
+}
+#php{
+	float:right;
+	height:auto;
+	line-height:normal;
+	width:auto;
+	display:inline-table;
+	}
+#sony{
+	border:#FF0000;
+	border-color:#00FF00;
+	}
+#Content{
+    border:#999 1px solid;
+	border-bottom:none;
+	background-color:#F4F4F4;
+	width:1000px;
+	
+	}
+
+#wrapper{}
+
+#menu{
+	 border:#999 1px solid;
+	 border-bottom:none;
+	 padding-top:1px;
+	 margin-top:3px;
+	 color: #333;
+	 width:1300px;
+	 padding:0px;
+	 margin:0px;
+	 }
+ul{
+
+   list-style:none;
+   padding:0px;
+   margin:0px;
+	}
+ ul li{
+   padding:0px;
+   margin:0px;
+   list-style:none;
+   float:left;
+   padding-right:5px;
+   position:relative;
+	}
+ul a{
+	display:table-cell;
+	vertical-align:middle;
+	width:100px;
+	height:30px;
+	text-align:center;
+	}
+
+	ul a:hover{
+		}
+
+li > ul{
+		display:none;
+	    position:absolute;
+		left:0;
+		top:100%;
+    }
+ li:hover>ul{display:block;}
+
+ li >ul>li{padding:0px;
+  padding-top:1px;
+	 }
+	     #username{padding:5px; margin:10px;margin-left:300px}
+		 #nom_client{ padding:5px; margin:10px; margin-left:300px}
+		 #password_client{ padding:5px; margin:10px;  margin-left:300px}
+		 #prenom_client{ padding:5px; margin:10px;  margin-left:300px}
+		 #adress_client{ padding:5px; margin:10px;  margin-left:300px}
+		 #telephone_client{padding:5px; margin:10px;  margin-left:300px}
+		 #email_client{padding:5px; margin:10px;  margin-left:300px}
+		 #submit_client{padding:5px; margin:10px;  margin-left:300px}
+#contPage {
+	display:table;
+	border:#999 1px solid;
+	border-bottom:none;
+
+	background-color:#F4F4F5;
+	width:1000px;
+	height:1000px;
+	
+	}

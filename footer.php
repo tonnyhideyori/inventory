@@ -1,0 +1,1 @@
+<div id="pageFooter" align="center">Copyright | <a href="manager.php">Admin</a> |&nbsp; &nbsp; <a href="#">Aide</a></div>
