@@ -68,6 +68,7 @@ $db->close();
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" />
 <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css"/>
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
 <script type="text/javascript" src="jquery-1.12.3.js"></script>
 <script type="text/javascript" src="jquery-1.12.3.min.js"></script>
 <script src="js/bootstrap.min.js"></script>

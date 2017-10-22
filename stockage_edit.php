@@ -78,6 +78,7 @@ if(isset($_POST['nom_produit'])){
 <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" />
 <link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
 <link href="SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
 <script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
 <script src="SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
 </head>

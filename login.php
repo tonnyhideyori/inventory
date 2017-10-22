@@ -46,23 +46,15 @@ if($sql->num_rows){
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" /></head>
+<link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
+</head>
 
 <body>
 <div align="center" id="wrapper">
 <?php include("header.php"); ?>
   <div id="pageContent"><br />
-    <!--<div align="left" style="margin-left:24px;">
-      <h2>J'ai un compte, je m'identifie!</h2>
-      <form id="form1" name="form1" method="post" action="login.php">
-        <table>
-          <tr><td><label><i>Votre Nom d'utilisateur</i></label></td><td><input name="username" type="text" id="username" size="40" style="height:25px;" /></td></tr>
-        
-         <tr><td><label><h4>Votre mot de passe</h4></label></td><td><input name="password" type="password" id="password" size="40" /></td></tr>
-         <tr><td></td><td><input type="submit" name="button" id="button" value="S'identifier" /></td></tr>
-          </table>
-
-      </form> -->
+  
       <div align="left" style="margin-left:24px;">
       <h2>Jiunganishe </h2><br />
       <form id="form2" name="form1" method="post" action="login.php">

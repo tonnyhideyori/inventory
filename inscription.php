@@ -36,6 +36,7 @@ if(isset($_POST['submit_client'])){
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
 <link href="SpryAssets/SpryValidationPassword.css" rel="stylesheet" type="text/css" />
 <link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
 <style type="text/css">

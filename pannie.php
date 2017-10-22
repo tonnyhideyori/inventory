@@ -227,12 +227,13 @@ if(isset($_GET['bu'])&&$_GET['bu']=="buy"){
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Votre pannie</title>
+<title>Kikapuni</title>
 <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
 <link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
 <link href="SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
 <script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
@@ -253,14 +254,7 @@ if(isset($_GET['bu'])&&$_GET['bu']=="buy"){
         <td width="21%" bgcolor="#C5DFFA"><strong>Toa</strong></td>
       </tr>
      <?php echo $cartOutput; ?>
-     <!-- <tr>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-      </tr> -->
+     
     </table>
           <?php echo $p; ?>
 

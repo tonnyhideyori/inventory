@@ -99,6 +99,7 @@ if(($sql->num_rows)>0){
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
 <link href="SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css" />
 <link href="SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
 <script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>

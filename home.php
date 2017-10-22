@@ -112,13 +112,11 @@ $db->close();
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" />
 <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css"/>
-<!--  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
- -->
-<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
- --> <script type="text/javascript" src="jquery-1.12.3.js"></script>
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
+  <script type="text/javascript" src="jquery-1.12.3.js"></script>
 <script type="text/javascript" src="jquery-1.12.3.min.js"></script>
-<!--  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
- -->  <script src="js/bootstrap.min.js"></script>
+
+ <script src="js/bootstrap.min.js"></script>
   <style>
   .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {

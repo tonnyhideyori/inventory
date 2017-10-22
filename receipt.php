@@ -48,6 +48,7 @@ $sqt=$db->query("SELECT * FROM paid");
 <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
 </head>
 
 <body>

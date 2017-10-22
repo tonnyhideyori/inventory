@@ -32,6 +32,12 @@ if(($sql->num_rows)>0){
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/bootstrap.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/bootstrap-theme.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/bootstrap-theme.min.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="W3.css" type="text/css" media="screen" />
 <title>Mauzo ya leo</title>
 </head>
 
